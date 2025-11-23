@@ -17,7 +17,7 @@
 #main-navbar .navbar-brand .logo {
     width: 103px;
     height: 103px;
-    background: url(images/ferrari.png);
+    background: url(/images/ferrari.png);
     background-size: cover;
     background-repeat: no-repeat;
     filter: brightness(0) invert(1);
